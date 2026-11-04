@@ -2,6 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MagicalTouch</title>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Wed, 04 Nov 2026 14:26:32 +0700</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/wskncode/magicaltouch-releases/main/updates/MagicalTouch-1.4.0.dmg" length="2184879" type="application/octet-stream" sparkle:edSignature="ICtTSrW53kOU6ciyBedjz/WBsJDsi7qdOhQtm6Nj14me2k1UCVUGvQ4l8DaDzz35fDBLAfrA/sEqL6viVD24DQ=="/>
+        </item>
 <item>
             <title>1.2.2</title>
             <pubDate>Mon, 02 Nov 2026 17:28:13 +0700</pubDate>
