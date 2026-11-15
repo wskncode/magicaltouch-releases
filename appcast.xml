@@ -4,6 +4,16 @@
         <title>MagicalTouch</title>
         <item>
             <title>1.4.0</title>
+            <pubDate>Sun, 15 Nov 2026 21:00:00 +0700</pubDate>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Build 98: Fixed Full Screen and Show Desktop window management actions. Added customizable modifier key (Option, Command, Control, Shift) with secondary swipe actions for Three-Finger Swipe Up and Down. Added CAD/3D middle-drag orbit.]]></description>
+            <enclosure url="https://raw.githubusercontent.com/wskncode/magicaltouch-releases/main/updates/MagicalTouch-1.4.0-b98.dmg" length="3353508" type="application/octet-stream" sparkle:edSignature="p/p7voQSFh9LzkLquXQPqV7iw9oANpRaRKUDEZyhbz/nVa2m9pMxH/tDWyFVFKWrHU3d2wZvGJI8AAffpNwjDA=="/>
+        </item>
+        <item>
+            <title>1.4.0</title>
             <pubDate>Wed, 11 Nov 2026 12:00:00 +0700</pubDate>
             <sparkle:version>96</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
