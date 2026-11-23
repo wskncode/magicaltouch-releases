@@ -4,6 +4,16 @@
         <title>MagicalTouch</title>
         <item>
             <title>1.4.0</title>
+            <pubDate>Mon, 23 Nov 2026 20:49:23 +0700</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Build 100: Shipped permanent Free Tier. Core gestures (silent 1-finger tap-to-click, 2-finger tap right-click, and sensitivity tuning) remain free forever after the 14-day trial. Pro features (3-finger drag, window swipes, 3-finger middle click, customizable modifiers, and CAD 3D middle-drag orbit) require active trial or license.]]></description>
+            <enclosure url="https://raw.githubusercontent.com/wskncode/magicaltouch-releases/main/updates/MagicalTouch-1.4.0-b100.dmg" length="3352226" type="application/octet-stream" sparkle:edSignature="vs+KBlBgNjkIOESp7IQQToARcW5R1QLGPyNdMB7SbY8oViMjVDe5/ILhMOg3YnbvJtFSnmWv2up6aCUrI05TAg=="/>
+        </item>
+        <item>
+            <title>1.4.0</title>
             <pubDate>Sun, 15 Nov 2026 21:06:19 +0700</pubDate>
             <sparkle:version>99</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
